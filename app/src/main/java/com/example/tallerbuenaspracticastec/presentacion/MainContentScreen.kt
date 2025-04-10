@@ -37,7 +37,7 @@ fun MainContent() {
                     Log.d("HumbertoTest", "El borton se esta haciendo Clic")
                 }
             ) {
-                Text("Humberto")
+                Text("Humberto otro commit")
             }
         }
     }
